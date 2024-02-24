@@ -1,3 +1,2 @@
 testclass.MyFirstTheory
-testclass.MyFirstTheory
 testclass.PassingAddTest

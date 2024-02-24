@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "08aYbAy2V7xcLbu2aZOOFMs443sSFPYYEXohraBNl67+2TQXdOJO+eKWa0+rpbk7xoxer7z0a2UAqQ1opPiDRQ==",
+  "dgSpecHash": "ZKplc5qNT1i7MOVc2g7NXBHw2QJb7mvgtT97/2FFNIqKtttSExMNTs5M8F7CC3jM37/J/deCwsspRkagbJXF1w==",
   "success": true,
-  "projectFilePath": "C:\\win\\ING\\2024-01\\COM_450\\UnitTest\\UnitTest.csproj",
+  "projectFilePath": "C:\\win\\ING\\2024_01\\COM_450\\COM-450\\TAREAS\\tarea_1\\UnitTest\\UnitTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\msi Katana GF76\\.nuget\\packages\\microsoft.codecoverage\\17.0.0\\microsoft.codecoverage.17.0.0.nupkg.sha512",
     "C:\\Users\\msi Katana GF76\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\win\\ING\\2024-01\\COM_450\\UnitTest\\UnitTest.csproj": {}
+    "C:\\win\\ING\\2024_01\\COM_450\\COM-450\\TAREAS\\tarea_1\\UnitTest\\UnitTest.csproj": {}
   },
   "projects": {
-    "C:\\win\\ING\\2024-01\\COM_450\\UnitTest\\UnitTest.csproj": {
+    "C:\\win\\ING\\2024_01\\COM_450\\COM-450\\TAREAS\\tarea_1\\UnitTest\\UnitTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\win\\ING\\2024-01\\COM_450\\UnitTest\\UnitTest.csproj",
+        "projectUniqueName": "C:\\win\\ING\\2024_01\\COM_450\\COM-450\\TAREAS\\tarea_1\\UnitTest\\UnitTest.csproj",
         "projectName": "UnitTest",
-        "projectPath": "C:\\win\\ING\\2024-01\\COM_450\\UnitTest\\UnitTest.csproj",
+        "projectPath": "C:\\win\\ING\\2024_01\\COM_450\\COM-450\\TAREAS\\tarea_1\\UnitTest\\UnitTest.csproj",
         "packagesPath": "C:\\Users\\msi Katana GF76\\.nuget\\packages\\",
-        "outputPath": "C:\\win\\ING\\2024-01\\COM_450\\UnitTest\\obj\\",
+        "outputPath": "C:\\win\\ING\\2024_01\\COM_450\\COM-450\\TAREAS\\tarea_1\\UnitTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\msi Katana GF76\\AppData\\Roaming\\NuGet\\NuGet.Config"

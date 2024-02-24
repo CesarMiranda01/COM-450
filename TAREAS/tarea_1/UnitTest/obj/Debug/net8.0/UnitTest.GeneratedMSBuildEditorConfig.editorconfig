@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = UnitTest
-build_property.ProjectDir = C:\win\ING\2024-01\COM_450\UnitTest\
+build_property.ProjectDir = C:\win\ING\2024_01\COM_450\COM-450\TAREAS\tarea_1\UnitTest\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
